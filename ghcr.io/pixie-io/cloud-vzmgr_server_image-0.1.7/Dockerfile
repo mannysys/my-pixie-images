@@ -6,4 +6,4 @@ echo "FROM ghcr.io/pixie-io/cloud-vzmgr_server_image:0.1.7" > ghcr.io/pixie-io/c
 git add .
 git commit -m 'new image: ghcr.io/pixie-io/cloud-vzmgr_server_image:0.1.7'
 # 默认分支可能是main，取决于你的github设置
-git push origin master
+git push origin main
